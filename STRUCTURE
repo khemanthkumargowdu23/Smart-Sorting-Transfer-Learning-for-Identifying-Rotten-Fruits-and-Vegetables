@@ -1,9 +1,0 @@
-SmartSortingWebApp/
-├── static/
-│   └── uploads/
-├── templates/
-│   └── index.html
-├── model/
-│   ├── fruit_classifier.h5
-│   └── class_indices.json
-├── app.py
