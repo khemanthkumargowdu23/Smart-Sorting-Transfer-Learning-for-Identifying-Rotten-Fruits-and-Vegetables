@@ -67,8 +67,7 @@ You can run this project on your local system by following these simple steps:
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/Vamsigovathoti8125/Smart-Sorting-fruits-vegetables-classification.git
-cd SmartSortingApp
+https://github.com/khemanthkumargowdu23/Smart-Sorting-Transfer-Learning-for-Identifying-Rotten-Fruits-and-Vegetables
 
 2️⃣ Create a Virtual Environment (Recommended)
 
